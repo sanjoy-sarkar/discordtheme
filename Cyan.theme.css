@@ -1,4 +1,4 @@
-@import url(https://dablulite.github.io/Cyan/import.css);
+@import url(https://github.com/sanjoy-sarkar/discordtheme/blob/master/import.css);
 :root {
 	--cyan-background-primary: hsla(0deg 0% var(--cyan-background-lightness) / 20%);
 	--cyan-elevation-shadow: 0 0 0 2px #fac002, 1px 2px 2px 1px /*rgba(0, 250, 75, 0.6)*/#aa7d05;
