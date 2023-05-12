@@ -1,20 +1,18 @@
 @import url(https://raw.githubusercontent.com/sanjoy-sarkar/discordtheme/master/import.css);
 :root {
 	--cyan-background-primary: hsla(0deg 0% var(--cyan-background-lightness) / 20%);
-	--cyan-elevation-shadow: 0 0 0 2px #fac002, 1px 2px 2px 1px /*rgba(0, 250, 75, 0.6)*/#aa7d05;
+	--cyan-background-secondary: ;
+	--cyan-elevation-shadow: 0 0 0 2px #fac002, 0 2px 10px 0 #aa7d05;
 	--cyan-font:'Bree Serif';
 	--cyan-background-img: url(https://images6.alphacoders.com/690/thumb-1920-690190.jpg);
-	--window-margin: 5;
+	--window-margin: 3;
+	--cyan-blur-radius: 1px;
 	--window-border-radius:10px;
-	/*--cyan-accent-color: hsla(115, 100%, 50%, 0.527); */
 	--cyan-accent-color: #aa7d05;
-	--cyan-blur-radius: 5px;
-	--cyan-status-mask-background: var(--profile-body-background-color);
 	--header-primary: #ffffff;
 	--header-secondary: #ffffff;
-	--background-floating: #833d0454;
-	--cyan-background-secondary: ;
-	--background-modifier-selected: #f7d30c;
+	--background-floating: #833d0485;
+	--background-modifier-selected: #fa4903;
 }
 
 /* 
