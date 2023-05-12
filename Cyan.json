@@ -81,9 +81,9 @@
     },
     "spec": 2,
     "background": {
-        "blur": 8,
+        "blur": 0,
         "url": "https://raw.githubusercontent.com/DaBluLite/Cyan/master/cyan-waves.png",
-        "alpha": 0.6,
+        "alpha": 0.0,
         "color": "#0A0A0A"
     }
 }
